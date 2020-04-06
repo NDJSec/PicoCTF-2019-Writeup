@@ -16,4 +16,4 @@ int("0x3D", 0)
 
 With "0x3D" being the base 16 value and 0 representing decimal(base 10) in python. 
 
-[Solution Script](https://github.com/NDJSec/PicoCTF-2019-Writeup/blob/master/General_Skills/Warmed_Up/Solution.py)
+[Solution Script](https://github.com/NDJSec/PicoCTF-2019-Writeup/blob/master/General_Skills/2Warm/Solution.py)
