@@ -14,4 +14,4 @@ You can use Python to get the ASCII vaule of 0x70
 
 chr(0x70)
 
-[Solution Script](https://github.com/NDJSec/PicoCTF-2019-Writeup/tree/master/General_Skills/Solution.py)
+[Solution Script](https://github.com/NDJSec/PicoCTF-2019-Writeup/blob/master/General_Skills/Lets_Warm_Up/Solution.py)
