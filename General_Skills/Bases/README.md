@@ -15,4 +15,4 @@ Go to the Shell, login and enter
 echo bDNhcm5fdGgzX3IwcDM1 | base64 -d
 Put the value in the Flag format for the Flag
 
-[Solution Script]()
+[Solution Script](https://github.com/NDJSec/PicoCTF-2019-Writeup/blob/master/General_Skills/Bases/Solution.py)
