@@ -16,4 +16,4 @@ Run cat file | grep -i pico
 
 To get the flag
 
-[Solution Script](https://github.com/NDJSec/PicoCTF-2019-Writeup/blob/master/General_Skills/Warmed_Up/Solution.py)
+[Solution Script](https://github.com/NDJSec/PicoCTF-2019-Writeup/blob/master/General_Skills/First_Grep/Solution.py)
