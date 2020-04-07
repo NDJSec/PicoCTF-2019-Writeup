@@ -7,7 +7,7 @@ General Skills
 200
 
 ## Description
-I've used a super secret mind trick to hide this file. Maybe something lies in /problems/where-is-the-file_4_f26b413d005c16c61f127740ab242b35.
+I've used a super secret mind trick to hide this file. Maybe something lies in **/problems/where-is-the-file_4_f26b413d005c16c61f127740ab242b35.**
 
 ## Solution
 To solve this you need to cat the file 
