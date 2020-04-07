@@ -3,7 +3,7 @@
 ## Catergory
 General Skills
 
-##Points
+## Points
 100
 
 ## Description 
