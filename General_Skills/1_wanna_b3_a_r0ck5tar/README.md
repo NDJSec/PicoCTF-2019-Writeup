@@ -13,10 +13,25 @@ I wrote you another [song](https://2019shell1.picoctf.com/static/0690cdfc040e177
 You can use [this site](https://codewithrockstar.com/online) to convert the file into workable numbers
 However, first you must remove these lines
 
-to get rid of the need for input
- 
+If the music is a guitar                  
+Say "Keep on rocking!"                
+Listen to the rhythm
+If the rhythm without Music is nothing
+Else Whisper "That ain't it, Chief"
 
-You could also google "42 in binary" and you will get "0b101010" remove the 0b and that's your flag.
+to get rid of the need for input
+
+Compile it to get the output
+
+66
+79
+78
+74
+79
+86
+73
+
+You can then use python to join and convert the characters with 
 
 
 [Solution Script](https://github.com/NDJSec/PicoCTF-2019-Writeup/blob/master/General_Skills/Warmed_Up/Solution.py)
