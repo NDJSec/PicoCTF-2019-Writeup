@@ -37,4 +37,4 @@ You can then use python to join and convert the characters with
 
 Then put the output in the Flag format for you flag.
 
-[Solution Script](https://github.com/NDJSec/PicoCTF-2019-Writeup/blob/master/General_Skills/Warmed_Up/Solution.py)
+[Solution Script](https://github.com/NDJSec/PicoCTF-2019-Writeup/blob/master/General_Skills/1_wanna_b3_a_r0ck5tar/Solution.py)
