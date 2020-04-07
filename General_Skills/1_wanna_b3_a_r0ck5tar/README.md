@@ -23,17 +23,17 @@ to get rid of the need for input
 
 Compile it to get the output
 
-66
+**66
 79
 78
 74
 79
 86
-73
+73**
 
 You can then use python to join and convert the characters with 
 
-''.join(map(chr,[66,79,78,74,79,86,73]))
+**''.join(map(chr,[66,79,78,74,79,86,73]))**
 
 Then put the output in the Flag format for you flag.
 
