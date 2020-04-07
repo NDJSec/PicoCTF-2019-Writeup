@@ -23,4 +23,4 @@ Then reload the website to see your flag
 
 (How to use Developer Tools: Chrome)(https://developers.google.com/web/tools/chrome-devtools/storage/cookies)
 
-[Solution Script](https://github.com/NDJSec/PicoCTF-2019-Writeup/blob/master/Web/Where_are_the_robots/Solution.py)
+
