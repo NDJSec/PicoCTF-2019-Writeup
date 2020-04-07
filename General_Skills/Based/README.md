@@ -14,6 +14,7 @@ To solve this log on to the shell sever and netcat over to the port listed in th
 You will be shown a list of encrypted data that you have to give the plain text for they can all be copied into these
 
 [link 1](https://www.rapidtables.com/convert/number/ascii-hex-bin-dec-converter.html)
+
 [link 2](https://cryptii.com/pipes/text-octal)
 
 to get the plain text
