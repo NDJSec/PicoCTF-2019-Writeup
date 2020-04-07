@@ -16,4 +16,4 @@ To solve this convert the numbers to its letter counterpart(I.e 1=A)
 
 **Note the flag format for this is all uppercase (PICOCTF{})
 
-[Solution Script](https://github.com/NDJSec/PicoCTF-2019-Writeup/blob/master/General_Skills/2Warm/Solution.py)
+[Solution Script](https://github.com/NDJSec/PicoCTF-2019-Writeup/blob/master/Cryptography/The_Numbers/Solution.py)
