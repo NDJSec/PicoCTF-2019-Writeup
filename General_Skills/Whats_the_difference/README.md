@@ -16,4 +16,4 @@ This can be done with python as seen in the Solution Script below
 
 **Note you need both files downloaded and in the same folder as the script for the script to work
 
-[Solution Script](https://github.com/NDJSec/PicoCTF-2019-Writeup/blob/master/General_Skills/2Warm/Solution.py)
+[Solution Script](https://github.com/NDJSec/PicoCTF-2019-Writeup/blob/master/General_Skills/What_the_difference/Solution.py)
