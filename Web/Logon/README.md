@@ -19,6 +19,7 @@ Once in you will want to modify the cookies of the page, specifically the admin 
 Then reload the website to see your flag
 
 **To edit the cookie you can either use a tool for Chrome called EditThisCookie 
+
 **This call also be done with developer tools in Chrome and Firefox
 
 (How to use Developer Tools: Chrome)(https://developers.google.com/web/tools/chrome-devtools/storage/cookies)
