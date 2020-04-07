@@ -17,4 +17,4 @@ This can be done with the command nc 2019shell1.picoctf.com (port)
 This will output your flag
 
 
-[Solution Script](https://github.com/NDJSec/PicoCTF-2019-Writeup/blob/master/General_Skills/2Warm/Solution.py)
+[Solution Script](https://github.com/NDJSec/PicoCTF-2019-Writeup/blob/master/General_Skills/Whats_a_net_cat/Solution.py)
