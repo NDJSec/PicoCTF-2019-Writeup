@@ -13,18 +13,18 @@ public class SolveVD1
             password.add('a');
         }
 
-        password.set(0,'d');
-        password.set(29,'7');
+        password.set(0,'d'); 
+        password.set(29,'a');
         password.set(4,'r');
-        password.set(2, '5');
+        password.set(2,'5');
         password.set(23,'r');
         password.set(3,'c');
         password.set(17,'4');
         password.set(1,'3');
-        password.set(7, 'b');
+        password.set(7,'b');
         password.set(10,'_');
         password.set(5,'4');
-        password.set(9, '3');
+        password.set(9,'3');
         password.set(11,'t');
         password.set(15,'c');
         password.set(8,'l');
@@ -38,13 +38,13 @@ public class SolveVD1
         password.set(19,'4');
         password.set(21,'T');
         password.set(16,'H');
-        password.set(27,'1');
+        password.set(27,'6');
         password.set(30,'f');
         password.set(25,'_');
         password.set(22,'3');
-        password.set(28,'e');
-        password.set(26,'5');
-        password.set(31,'d');
+        password.set(28,'d');
+        password.set(26,'f');
+        password.set(31,'4');
 
         for (Character ch : password) 
         {

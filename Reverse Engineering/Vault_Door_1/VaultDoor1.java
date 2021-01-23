@@ -22,7 +22,7 @@ class VaultDoor1 {
     public boolean checkPassword(String password) {
         return password.length() == 32 &&
                password.charAt(0)  == 'd' &&
-               password.charAt(29) == '7' &&
+               password.charAt(29) == 'a' &&
                password.charAt(4)  == 'r' &&
                password.charAt(2)  == '5' &&
                password.charAt(23) == 'r' &&
@@ -46,12 +46,12 @@ class VaultDoor1 {
                password.charAt(19) == '4' &&
                password.charAt(21) == 'T' &&
                password.charAt(16) == 'H' &&
-               password.charAt(27) == '1' &&
+               password.charAt(27) == '6' &&
                password.charAt(30) == 'f' &&
                password.charAt(25) == '_' &&
                password.charAt(22) == '3' &&
-               password.charAt(28) == 'e' &&
-               password.charAt(26) == '5' &&
-               password.charAt(31) == 'd';
+               password.charAt(28) == 'd' &&
+               password.charAt(26) == 'f' &&
+               password.charAt(31) == '4';
     }
 }
